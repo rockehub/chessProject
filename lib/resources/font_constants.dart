@@ -1,0 +1,6 @@
+
+
+enum FontsConstants {
+  scrita,
+  bebas
+}

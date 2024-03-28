@@ -1,0 +1,19 @@
+{
+  "appTitle": "ChessProject",
+  "loginTitle": "Login",
+  "loginSubtitle": "Enter and play with us",
+  "dontHaveAccount": "Don't Have a Account? Sign up",
+  "copyRight": "by Tequila & Netplayer",
+  "email": "Email",
+  "password": "Password",
+  "passwordLength": "Password must be at least 8 characters",
+  "passwordUppercase": "Password must contain at least one uppercase letter",
+  "passwordNumber": "Password must contain at least one number",
+  "ok": "Ok",
+  "signIn": "Sign In",
+  "registerTitle": "Register",
+  "registerSubtitle": "Enter your data to register",
+  "registerName": "Name",
+  "registerPhone": "Phone",
+  "register": "Register"
+}

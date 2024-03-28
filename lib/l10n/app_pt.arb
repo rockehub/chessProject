@@ -1,0 +1,19 @@
+{
+  "appTitle": "Projeto Xadrez",
+  "loginTitle": "Entrar",
+  "loginSubtitle": "Entre e jogue com a gente",
+  "dontHaveAccount": "Não tem uma Conta? Registre-se",
+  "copyRight": "Por Tequila e Netplayer",
+  "email": "Email",
+  "password": "Senha",
+  "passwordLength": "A senha deve ter no mínimo 8 caracteres",
+  "passwordUppercase": "A senha deve ter no mínimo uma letra maiúscula",
+  "passwordNumber": "A senha deve ter no mínimo um número",
+  "ok": "Ok",
+  "signIn": "Entrar",
+  "registerTitle": "Registre-se",
+  "registerSubtitle": "Registre-se e jogue com a gente",
+  "registerName": "Nome",
+  "registerPhone": "Telefone",
+  "register": "Registrar"
+}
